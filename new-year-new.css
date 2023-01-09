@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* first section start */
+.header-content{
+    margin-left: 800px;
+    margin-right: 200px;
+    margin-top: -550px;
+    text-align: right;
+}
+.header-title{
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.header-para{
+    margin-bottom: 30px;  
+}
+.button-contact{
+    padding: 15px;
+    border: none;
+    background-color: orangered;
+    color: white;
+}
+/* first section ended */
+
+/* second section start */
+.previous-year-container{
+    display: flex;
+    gap: 100px;
+}
+
+.previous-year{
+    margin-top: 400px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+
+.year-title{
+    margin-top: 150px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.year-description{
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+ul{
+    padding-left: 20px;;
+}
+
+.previous-year-container-text{
+    margin-right: 300px;
+}
+
+.personal-photo{
+    margin-left: 100px;
+}
+/* second section ended */
+
+/* third section start */
+.my-plans{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
+.third-section-title{
+    margin-bottom: 60px;
+    text-align: center;
+
+}
+.plan-title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.plan-description{
+    margin-bottom: 100px;
+}
+
+/* third section ended */
+
+/* fourth section start */
+.fourth-section{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.advice-content{
+    text-align: left;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+#advice-gradient{
+    height: 200px;
+    background-image: linear-gradient(to right, green, red);
+}
+.advice-title{
+    margin-bottom: 15px;
+    color: white;
+}
+.btn-common{
+    padding: 15px 25px;
+    color: orangered;
+}
+/* fourth section ended */
+
+/* fifth section start */
+.footer-container{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.contact{
+    margin: 100px 180px;
+}
+.footer-title{
+    margin-bottom: 20px;
+}
+.footer-paragraph{
+    margin-bottom: 20px;
+}
+.email-add{
+    margin-bottom: 20px;
+}
+.ftr-phone{
+    margin-bottom: 20px;
+}
+.ftr-subscribe{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-right: 500px;
+}
+.btn-common{
+    display: block;
+}
+.ftr-email{
+    width: 40%;
+    padding: 12px 20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+/* fifth section ended */
+
